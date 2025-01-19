@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="remind_me">Remind me to %s in…</string>
+    <string name="five_seconds">5 seconds</string>
+    <string name="thirty_seconds">30 seconds</string>
+    <string name="one_minute">1 minute</string>
+    <string name="two_minutes">2 minutes</string>
+    <string name="one_day">1 day</string>
+    <string name="one_week">1 week</string>
+    <string name="one_month">1 month</string>
+    <string name="water">Water</string>
+    <string name="time_to_do">It\'s time to do %s.</string>
+
+    <string name="study">Study</string>
+    <string name="work_out">Work out</string>
+    <string name="buy_groceries">Buy groceries</string>
+    <string name="pay_bills">Pay bills</string>
+    <string name="finish_project">Finish the project</string>
+
+    <string name="work">Work</string>
+    <string name="learning">Learning</string>
+    <string name="personal">Personal</string>
+
+    <string name="study_description">Finish reading about Work Manager</string>
+    <string name="work_out_description">Run 10k</string>
+    <string name="buy_groceries_description">Buy: 1)Stuff 2)Stuff 3)Stuff ...</string>
+    <string name="pay_bills_description">Pay bills</string>
+    <string name="finish_project_description">Finish the project for work</string>
+
+
+</resources>
